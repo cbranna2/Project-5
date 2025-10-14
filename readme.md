@@ -1,9 +1,9 @@
-# \<Project Name\> Scrum Team
+# \<Project-5\> XXXF0rce
 ## Product Owner
-\<Team Member Name\>
+\<Chris\>
 ## Scrum Master
-\<Team Member Name\>
+\<Colby\>
 ## Developers
-- \<Team Member Name\>
-- \<Team Member Name\>
-- \<Team Member Name\>
+- \<Alek\>
+- \<Chris\>
+- \<Colby\>
